@@ -1,13 +1,15 @@
-To Infinity
+# To Infinity
 
 This game is focused around controlling a helicopter to fly through a randomly generated cave.
 
-There are distinct stages and a HIGHSCORE board
+There are distinct stages and a HIGHSCORE board.
 
-You can beat the game by escaping the cave and getting into INFINITY
+You can beat the game by escaping the cave and getting into INFINITY.
 
-Use W and S to fly
+Use W and S to fly.
 
-Showcase 1 shows the title screen for the game "To Infinity"
+## Title Screen
+![Title Screen](mainpage.png)
 
-Showcase 2 shows the gameplay so you can get an idea of what playing the game looks like
+## Gameplay
+![Gameplay](inGame.png)
